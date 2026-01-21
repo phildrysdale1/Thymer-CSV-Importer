@@ -68,7 +68,3 @@ Headers are matched case-insensitively, ignoring spaces/dashes/underscores:
 - Test with small CSV first (5-10 rows)
 - Use ISO dates: `2024-01-15` or `2024-01-15T14:30:00`
 - Large files? Use file upload instead of paste
-
-## License
-
-MIT
