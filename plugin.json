@@ -1,0 +1,7 @@
+{
+  "ver": 1,
+  "version": "1.0.0",
+  "name": "CSV Importer",
+  "icon": "ti-file-import",
+  "description": "Import CSV data into any Thymer collection with intelligent field mapping"
+}
