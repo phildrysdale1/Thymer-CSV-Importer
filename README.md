@@ -2,6 +2,9 @@
 
 Import CSV data into Thymer collections with automatic field mapping and type detection.
 
+## This plugin has been incorporated into the [Thymer Importer Plugin](https://github.com/phildrysdale1/thymer-importer). It works as a standalone plugin but I will not be updating it
+
+
 ## Features
 
 - **File upload or paste** - Import from files or clipboard
